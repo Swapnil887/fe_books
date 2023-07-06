@@ -1,0 +1,25 @@
+.App {
+
+  padding: 30px;
+  text-decoration: none;
+  background-color: aqua;
+align-items: center;
+}
+
+.button{
+  margin: 10px;
+  border: 2px solid black;
+  padding: 5px;
+}
+
+
+.card{
+  border: 1px solid black;
+  margin: 20px;
+  width: 40%;
+}
+
+.adddiv{
+  background-color: azure;
+  width: 20%;
+}
